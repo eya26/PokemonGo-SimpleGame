@@ -30,7 +30,7 @@ Contributions should be under the terms of the MIT license <LICENSE>.
 
 ## How to build
 
-See BUILD.md 
+> See [BUILD.md](BUILD.md)
 
 ## Authors / Contributors
 
