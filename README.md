@@ -9,7 +9,7 @@ You are going to build a Pokémon  API with Node, Express, and MongoDB. Your API
 The project contains 2 main directories
 
 - `server`: for your server side
-- `client`: for your client side _(will be generated in the following steps)_
+- `client`: for your client side 
 
 ## Contribution 
 Thank you for your interest in our project. There are many ways to contribute, and we appreciate all of them :
@@ -28,6 +28,9 @@ You can contribute in one of the three main parts of the project:
 
 Contributions should be under the terms of the MIT license <LICENSE>.
 
+## How to build
+
+See BUILD.md 
 
 ### Available Resources
 
