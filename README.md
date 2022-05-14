@@ -43,17 +43,4 @@ The project was originally developed by:
 ## 📝 License
 [MIT](https://github.com/eya26/PokemonGo-SimpleGame/blob/main/poke-mongo/LICENSE)
 
-### Available Resources
-
-You may visit each of these resources directly, or search for them on Google with the [`site:`](https://support.google.com/websearch/answer/2466433?hl=en) operator:
-
-- [MDN](https://developer.mozilla.org/en-US/)
-- [Stack Overflow](http://stackoverflow.com/)
-- [Express docs](https://expressjs.com/)
-- [Mongo docs](https://docs.mongodb.com/)
-- [Mongoose docs](http://mongoosejs.com/docs/index.html)
-- [React docs](https://facebook.github.io/react/docs/getting-started.html)
-- [Angular docs](https://docs.angularjs.org/api)
-- [Backbone docs](http://backbonejs.org/)
-- [Webpack docs](https://webpack.github.io/docs/)
 
