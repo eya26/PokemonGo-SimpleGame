@@ -41,6 +41,6 @@ The project was originally developed by:
 
 
 ## 📝 License
-[MIT](https://github.com/eya26/PokemonGo-SimpleGame/blob/main/poke-mongo/LICENSE)
+[MIT](https://github.com/eya26/PokemonGo-SimpleGame/blob/main/LICENSE)
 
 
