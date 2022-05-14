@@ -32,7 +32,7 @@ Contributions should be under the terms of the MIT license <LICENSE>.
 
 > See [BUILD.md](BUILD.md)
 
-## Authors / Contributors
+## Authors / Contributors / Original Developers
 
 The project was originally developed by:
 - [Eya Chafter](https://github.com/eya26)
@@ -41,6 +41,6 @@ The project was originally developed by:
 
 
 ## 📝 License
-[MIT](https://github.com/eya26/PokemonGo-SimpleGame/blob/main/LICENSE)
+The project is published under [MIT](https://github.com/eya26/PokemonGo-SimpleGame/blob/main/LICENSE)
 
 
